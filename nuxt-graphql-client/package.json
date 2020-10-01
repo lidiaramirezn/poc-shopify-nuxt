@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-buy",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.1-rc.3",
+    "@nuxtjs/axios": "^5.12.2",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0",
+    "nuxt": "^2.14.6"
+  }
+}
